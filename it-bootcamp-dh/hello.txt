@@ -1,2 +1,3 @@
 Hello World!
 Bora fazer o merge!
+Para resolver conflito!
